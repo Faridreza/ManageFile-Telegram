@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z//HtmstoIWAnnIIy8WU+7gAyVuyBBWEP1ctbUnIels4fA8mERjhtj7wvpPa9FTG4I2kLmtkVBQyn/Wqb77sjQ==",
+  "success": true,
+  "projectFilePath": "A:\\Management-Telegram\\Management-Telegram\\Management-Telegram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WhileLearn\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\WhileLearn\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
